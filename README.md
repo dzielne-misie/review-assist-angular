@@ -1,5 +1,7 @@
 # Review Assist - Angular.js frontend
 
+[![Build Status](https://travis-ci.org/dzielne-misie/review-assist-angular.svg?branch=master)](https://travis-ci.org/dzielne-misie/review-assist-angular)
+
 An example frontend interfacing with Review Assist's REST API.
 
 ## Installation
