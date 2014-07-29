@@ -1,0 +1,6 @@
+language: node_js
+node_js:
+  - "0.10"
+
+install:
+  - node_modules/protractor/bin/webdriver-manager update
